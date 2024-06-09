@@ -1,2 +1,1 @@
-# Machine-Learning
-Machine Learning Work
+Research Paper and Code for machine learning models
